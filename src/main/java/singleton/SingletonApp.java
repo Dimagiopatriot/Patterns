@@ -17,7 +17,7 @@ public class SingletonApp {
 
         SingletonEnum se = SingletonEnum.INSTANCE;
         LazySingleton lazySingleton = LazySingleton.getInstance();//инициалиазация объекта и возврат ссылки
-        LazySingleton lazySingleton1 = LazySingleton.getInstance();//возврат ссылки на уже имееющийся объект
+        LazySingleton lazySingleton1 = LazySingleton.getInstance();//возврат ссылки на уже имеющийся объект
 
     }
 }
