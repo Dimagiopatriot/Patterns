@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 /**
  * Created by troll on 06.08.2017.
